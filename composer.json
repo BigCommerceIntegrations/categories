@@ -1,0 +1,12 @@
+{
+    "name": "bigcommintegrations/categories",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BigCommIntegrations\\Categories\\": "src/"
+        }
+    }
+}
